@@ -1,0 +1,8 @@
+# Generated output / caches
+indo_tts_output/
+__pycache__/
+*.pyc
+
+# Local env
+.venv/
+venv/
